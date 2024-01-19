@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../képek"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Amazon Tatto"
+	}
+}
